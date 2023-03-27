@@ -20,6 +20,7 @@
   },
   "dependencies": {
     "lib0": "^0.2.32",
+    "mongodb": "^5.1.0",
     "mongoist": "^2.5.2",
     "mongojs": "^3.1.0"
   },
